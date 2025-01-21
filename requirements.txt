@@ -1,0 +1,9 @@
+streamlit
+crewai
+transformers
+praw
+yfinance
+langchain
+python-dotenv
+torch
+numpy
